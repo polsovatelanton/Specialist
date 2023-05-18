@@ -1,2 +1,5 @@
-venv_name/
-*.sqlite3
+*venv_name/
+.idea/
+*venv_name
+*.pyc
+db.*
